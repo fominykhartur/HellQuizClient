@@ -2,13 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+HellQuiz/[Ll]ibrary/
+HellQuiz/[Tt]emp/
+HellQuiz/[Oo]bj/
+HellQuiz/[Bb]uild/
+HellQuiz/[Bb]uilds/
+HellQuiz/[Ll]ogs/
+HellQuiz/[Mm]emoryCaptures/
+/Builds/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
